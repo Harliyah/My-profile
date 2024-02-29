@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+.container{
+    background-color: black;
+    color: antiquewhite;
+}
+header{
+    font-size: 25px;
+    color: aqua;
+}
+.front{
+    color:aqua ;
+}
+.choow{
+    color: aqua;
+}
+footer{
+    text-align: right;
+}
+.img{
+    display: flex;
+}

@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+    color: antiquewhite;
+}
+.container{
+    background-color: black;
+}
+header{
+    font-size: 25px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.linkedin{
+    justify-content: space-between none;
+}
+.in{
+    text-align: center;
+}
+footer{
+    text-align:right ;
+}
+.a{
+    justify-content: right;
+}
